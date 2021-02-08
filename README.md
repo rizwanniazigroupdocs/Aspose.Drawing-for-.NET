@@ -1,3 +1,5 @@
+![Nuget](https://img.shields.io/nuget/v/Aspose.Drawing) ![Nuget](https://img.shields.io/nuget/dt/Aspose.Drawing) ![GitHub](https://img.shields.io/github/license/aspose-drawing/Aspose.Drawing-for-.NET)
+
 # 2D Graphics Drawing via .NET
 
 [Aspose.Drawing for .NET](https://products.aspose.com/drawing/net) is a .NET graphics API that provides the capability of 2D drawings identical to GDI+ in your .NET applications. The drawing engine supports rendering vector graphics (such as lines, curves, and figures) and text (in a variety of fonts, sizes, and styles) onto raster images in all commonly used graphics file formats. The project is based on managed .NET core and does not have dependencies on native code and libraries, with the rendering algorithms working the same way on all supported platforms.
